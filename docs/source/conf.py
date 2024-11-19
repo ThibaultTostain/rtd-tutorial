@@ -2,6 +2,11 @@
 
 # -- Project information
 
+import sphinx
+import sphinx_rtd_theme
+import sys
+import os
+
 project = 'Lumache'
 copyright = '2021, Graziella'
 author = 'Graziella'
